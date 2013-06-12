@@ -1,3 +1,4 @@
 name: CUDPP
+tagline: CUDA Data Parallel Primitives Library
 pygments: true
 timezone: America/San_Jose
