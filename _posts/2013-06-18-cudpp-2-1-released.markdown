@@ -7,6 +7,6 @@ categories: releases
 
 CUDPP release 2.1 is a feature release that adds many new parallel primities.  A lossless data compression algorithm has been implemented and is usable through the public interface ([cudppCompress](http://cudpp.github.io/cudpp/2.1/group__public_interface.html#gae537bc8a91bb7d86f670c2065473b777)).  In addition, the library now contains two new sorting algorithms, ([cudppMergeSort](http://cudpp.github.io/cudpp/2.1/group__public_interface.html#ga6dfdfa4fd5c580302c5ab61b45c53b0a)) and ([cudppStringSort](http://cudpp.github.io/cudpp/2.1/group__public_interface.html#ga9436ce9ee1b4dfefa70ece1b3776f338)), in addition to the existing radix sort.  Minor code refactoring and build time fixes were completed.
 
-2.1 is the first release to mark our transition from Google Code to Github.  We hope this transition will facilitate more community involvement and easier project management in the future.
+CUDPP 2.1 is the first release to mark our transition from Google Code to Github.  We hope this transition will facilitate more community involvement and easier project management in the future.
 
 A full list of changes can be viewed in the ([change log](http://cudpp.github.io/cudpp/2.1/changelog.html)).
