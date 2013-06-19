@@ -10,3 +10,7 @@ CUDPP release 2.1 is a feature release that adds many new parallel primitives.  
 CUDPP 2.1 is the first release to mark our transition from Google Code to Github.  We hope this transition will facilitate more community involvement and easier project management in the future.
 
 A full list of changes can be viewed in the ([change log](http://cudpp.github.io/cudpp/2.1/changelog.html)).
+
+Papers Cited:
+- Ritesh A. Patel, Yao Zhang, Jason Mak, Andrew Davidson, John D. Owens. **"Parallel Lossless Data Compression on the GPU"**. In *Proceedings of Innovative Parallel Computing (InPar '12)*, May 2012. [http](http://idav.ucdavis.edu/publications/print_pub?pub_id=1087)
+- Andrew Davidson, David Tarjan, Michael Garland, and John D. Owens. **"Efficient Parallel Merge Sort for Fixed and Variable Length Keys"**. *In Proceedings of Innovative Parallel Computing (InPar '12)* May 2012. [http](http://www.idav.ucdavis.edu/publications/print_pub?pub_id=1085)
