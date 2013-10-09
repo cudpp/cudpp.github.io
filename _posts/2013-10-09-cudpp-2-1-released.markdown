@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "CUDPP 2.1 Released!"
-date:   2013-6-18 14:18:24
+date:   2013-10-9 14:18:24
 categories: releases
 ---
 
-CUDPP release 2.1 is a feature release that adds many new parallel primitives. We have added [cudppCompress](http://cudpp.github.io/cudpp/2.1/group__public_interface.html#gae537bc8a91bb7d86f670c2065473b777), a lossless data compression algorithm. This compression utilizes efficient parallel Burrows-Wheeler and Move-to-Front transforms which are also exposed through the API. In addition, the library now contains two new sorting algorithms, [cudppMergeSort](http://cudpp.github.io/cudpp/2.1/group__public_interface.html#ga6dfdfa4fd5c580302c5ab61b45c53b0a) and [cudppStringSort](http://cudpp.github.io/cudpp/2.1/group__public_interface.html#ga9436ce9ee1b4dfefa70ece1b3776f338), adding to the existing radix sort. Minor code refactoring and build time fixes were completed.
+CUDPP release 2.1 is a feature release that adds many new parallel primitives. We have added [cudppCompress](http://cudpp.github.io/cudpp/2.1/group__public_interface.html#ga9d6e16e3dcf36a46be5bd98a675992c8), a lossless data compression algorithm. This compression utilizes efficient parallel Burrows-Wheeler and Move-to-Front transforms which are also exposed through the API. In addition, the library now contains two new sorting algorithms, [cudppMergeSort](http://cudpp.github.io/cudpp/2.1/group__public_interface.html#ga6dfdfa4fd5c580302c5ab61b45c53b0a) and [cudppStringSort](http://cudpp.github.io/cudpp/2.1/group__public_interface.html#gaee8a05e38479c8b54b5d5b6655022d0a), adding to the existing radix sort. Minor code refactoring and build time fixes were completed.
 
 CUDPP 2.1 is the first release to mark our transition from Google Code to Github.  We hope this transition will facilitate more community involvement and easier project management in the future.
 
